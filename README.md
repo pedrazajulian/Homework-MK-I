@@ -5,4 +5,4 @@ Homework Week 1
  Source Code is refractor in order to be more unified and organized
  Navigation bar has been activated in order to work properly.
  (.assets/horiseon_HW_Img.png)
-  
+  site is published at https://pedrazajulian.github.io/Homework-MK-I/
